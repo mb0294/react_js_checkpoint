@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(168, 223, 18);
+}
+.container {
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(110, 101, 101);
+}
+.container.mt-5 {
+  width: 50%;
+}
+.contact {
+  padding: 5%;
+  box-shadow: 0 0 18px rgba(113, 175, 32, 0.781);
+}
+input{
+  display: block;
+}
